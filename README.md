@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Haseeb Raza
+# 👋 Hi, I’m Haseeb Raza.
 
 - 👨‍💻 I’m interested in Machine Learning, Software Development, and Fairness in AI.
 - 🎓 I’m currently a Computer Science student at Eötvös Loránd University in Budapest.
