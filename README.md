@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Haseeb Raza.
+#  Hi, I’m Haseeb Raza.
 
 - 👨‍💻 I’m interested in Web Development, Software Development, and Machine Learning.
 - 🎓 I’m currently a Computer Science student at Eötvös Loránd University in Budapest.
