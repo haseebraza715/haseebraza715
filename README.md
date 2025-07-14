@@ -1,9 +1,7 @@
-# 👋 Hi, I’m Haseeb Raza
+# Hi, I’m Haseeb Raza
 
-* 💻 Passionate about **Web Development**, **Software Engineering**, and **Machine Learning**
-* 🎓 Currently pursuing a **Bachelor’s in Computer Science** at *Eötvös Loránd University*, Budapest
-* 🌍 Eager to collaborate on **impact-driven projects** that solve real-world problems
-* 📬 Let’s connect: [haseeb.javed715@gmail.com](mailto:haseeb.javed715@gmail.com)
-* 🔗 Find me on LinkedIn: [https://www.linkedin.com/in/haseeb-raza-00a845231/](https://www.linkedin.com/in/haseeb-raza-00a845231/)
-
-
+* Strong background in Web Development, Software Engineering, and AI-powered applications
+* Pursuing a Bachelor’s in Computer Science at Eötvös Loránd University, Budapest
+* Open to collaborating on impactful, real-world software and research projects
+* Contact: [haseeb.javed715@gmail.com](mailto:haseeb.javed715@gmail.com)
+* LinkedIn: [linkedin.com/in/haseeb-raza-00a845231](https://www.linkedin.com/in/haseeb-raza-00a845231)
