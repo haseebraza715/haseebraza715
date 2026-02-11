@@ -11,7 +11,7 @@ Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines**
 
 - **Software Engineer** @ Infineon Technologies
 - **AI Research Assistant** – LLM evaluation, agentic systems, AI bias (ETH Zurich, ELTE RC2S2 Lab)
-- **Senior Student Demonstrator** – Teaching OOP & Programming Technology at ELTE
+- **Senior Student Demonstrator** – Teaching DSA & OS at ELTE
 - **Founder & Lead** – ELTE Data Science Club (100+ members)
 
 
