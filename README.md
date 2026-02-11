@@ -2,9 +2,8 @@
 
 **AI Research Assistant | Software Engineer | Data Science Leader**
 
-Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines**—bridging research and production ML.
+Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines** bridging research and production ML.
 
----
 
 ## Background
 
@@ -15,7 +14,6 @@ Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines**
 - **Senior Student Demonstrator** – Teaching OOP & Programming Technology at ELTE
 - **Founder & Lead** – ELTE Data Science Club (100+ members)
 
----
 
 ## Focus Areas
 
@@ -25,13 +23,11 @@ Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines**
 - **Software Development** – Building robust, scalable applications
 - **Responsible AI** – Bias detection and evaluation methodologies
 
----
 
 ## Interests
 
 Data Science • Machine Learning • NLP • Agentic AI • AI Safety • Software Engineering
 
----
 
 ## Let's Collaborate
 
@@ -40,7 +36,5 @@ Open to projects in **data science, ML research, and production AI systems**.
 **📧** [haseeb.javed715@gmail.com](mailto:haseeb.javed715@gmail.com)  
 **💼** [linkedin.com/in/haseeb-raza-00a845231](https://www.linkedin.com/in/haseeb-raza-00a845231)  
 **🐙** [github.com/haseebraza715](https://github.com/haseebraza715)
-
----
 
 **Building AI that matters.**
