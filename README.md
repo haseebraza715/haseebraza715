@@ -7,7 +7,7 @@ Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines**
 
 ## Background
 
-**BSc Computer Science** @ Eötvös Loránd University (ELTE), Budapest | GPA: 4.21/5.00
+**BSc Computer Science** @ Eötvös Loránd University (ELTE), Budapest
 
 - **Software Engineer** @ Infineon Technologies
 - **AI Research Assistant** – LLM evaluation, agentic systems, AI bias (ETH Zurich, ELTE RC2S2 Lab)
