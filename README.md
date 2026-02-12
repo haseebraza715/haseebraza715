@@ -34,7 +34,7 @@ Data Science • Machine Learning • NLP • Agentic AI • AI Safety • Softw
 Open to projects in **data science, ML research, and production AI systems**.
 
 **📧** [haseeb.javed715@gmail.com](mailto:haseeb.javed715@gmail.com)  
-**💼** [linkedin.com/in/haseeb-raza-00a845231](https://www.linkedin.com/in/haseeb-raza-00a845231)  
+**💼** [linkedin.com/in/haseebraza715](https://www.linkedin.com/in/haseeb-raza-00a845231)  
 **🐙** [github.com/haseebraza715](https://github.com/haseebraza715)
 
 **Building AI that matters.**
