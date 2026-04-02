@@ -1,6 +1,6 @@
 # Hi, I’m Haseeb Raza 👋
 
-**AI Research Assistant | Software Engineer | Data Science Leader**
+**AI/Agentic Research Assistant | Data Scientist | Founder @ Data Science Club ELTE**
 
 Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines** bridging research and production ML.
 
