@@ -1,11 +1,12 @@
 > Building agents. Then figuring out where they break.
 
 [![Gmail](https://img.shields.io/badge/Gmail-haseeb.javed715-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseeb.javed715@gmail.com)
+
 ---
 
 **Research** &nbsp;·&nbsp; *papers in preparation*
 
-| Name | What it does | Status |
+| Project | What it does | Status |
 |---|---|---|
 | [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with stateful memory and hallucination mitigation — BSc thesis @ ELTE | `writing up` |
 | [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP | `paper in prep` |
@@ -14,11 +15,12 @@
 
 **Projects** &nbsp;·&nbsp; *more shipping soon*
 
-| Name | What it does |
+| Project | What it does |
 |---|---|
 | [**agent-autopsy**](https://github.com/haseebraza715/agent-autopsy) | Detects failure loops and root causes in LLM agent traces |
 | [**multi-agent-reflection-engine**](https://github.com/haseebraza715/forkpoint) | 5-agent reflection system with eval pipeline and audit snapshots |
-| [**bias-detector**](https://github.com/haseebraza715/bias-detector) | Statistical + LLM-based dataset bias auditing framework |
+| [**obsidian-ai-agent**](https://github.com/haseebraza715/AgentVault) | AI agent for Obsidian that reasons over personal notes with grounded, context-aware responses |
+
 ---
 
 Founder · [ELTE Data Science Club](https://datasciencelte.netlify.app/) · 100+ members &nbsp;·&nbsp; *Research without deployment is theory. Deployment without evaluation is guesswork.*
