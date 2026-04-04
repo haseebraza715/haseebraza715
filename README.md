@@ -37,8 +37,6 @@ CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engine
 
 ### Community
 
-[![DSC](https://img.shields.io/badge/ELTE_Data_Science_Club-100+_members-FF6F00?style=flat-square&logo=googlescholar&logoColor=white)](https://datasciencelte.netlify.app)
-
 Founder of [**ELTE Data Science Club**](https://datasciencelte.netlify.app/) — 100+ members
 
 ---
