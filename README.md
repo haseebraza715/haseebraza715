@@ -5,7 +5,7 @@
 
 **Research** &nbsp;·&nbsp; *papers in preparation*
 
-| | What it does | Status |
+| Name | What it does | Status |
 |---|---|---|
 | [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with stateful memory and hallucination mitigation — BSc thesis @ ELTE | `writing up` |
 | [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP | `paper in prep` |
@@ -14,7 +14,7 @@
 
 **Projects** &nbsp;·&nbsp; *more shipping soon*
 
-| | What it does |
+| Name | What it does |
 |---|---|
 | [**agent-autopsy**](https://github.com/haseebraza715/agent-autopsy) | Detects failure loops and root causes in LLM agent traces |
 | [**multi-agent-reflection-engine**](https://github.com/haseebraza715/forkpoint) | 5-agent reflection system with eval pipeline and audit snapshots |
