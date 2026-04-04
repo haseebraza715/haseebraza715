@@ -1,40 +1,27 @@
-# Hi, I’m Haseeb Raza 👋
+## Haseeb Raza
 
-**AI/Agentic Research Assistant | Data Scientist | Founder @ Data Science Club ELTE**
+CS @ ELTE Budapest · Research @ ETH Zurich · Engineer @ Infineon
 
-Building intelligent systems with **LLMs, agentic workflows, and RAG pipelines** bridging research and production ML.
+I build agentic AI systems and evaluate whether they actually work.
 
+Currently:
+- Automating scientific peer review with LLM agents @ ETH Agentic Systems Lab
+- Shipping multilingual LLM pipelines for enterprise workflows @ Infineon
+- Researching LLM bias with 15,000+ persona-based prompts @ ELTE RC2S2
+- Building EngageMind — a RAG system with stateful memory (BSc thesis)
 
-## Background
+**Featured work**
 
-**BSc Computer Science** @ Eötvös Loránd University (ELTE), Budapest
+| Project | What it does |
+|---|---|
+| [EngageMind](https://github.com/haseebraza715/EngageMind) | RAG system with hallucination mitigation — BSc thesis |
+| [agent-autopsy](https://github.com/haseebraza715/agent-autopsy) | Detects failure loops and root causes in LLM agent traces |
+| [multi-agent-reflection-engine](https://github.com/haseebraza715/forkpoint) | 5-agent reflection system with eval pipeline and audit snapshots |
+| [failure-aware-ocr-rag](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline that handles extraction failures gracefully |
+| [bias-detector](https://github.com/haseebraza715/bias-detector) | Statistical + LLM-based dataset bias auditing framework |
 
-- **Software Engineer** @ Infineon Technologies
-- **AI Research Assistant** – LLM evaluation, agentic systems, AI bias (ETH Zurich, ELTE RC2S2 Lab)
-- **Senior Student & Demonstrator** – Teaching DSA & OS at ELTE
-- **Co-Founder** – ELTE Data Science Club (100+ members)
+**Stack I work in most:** Python · LangGraph · LangChain · FastAPI · Next.js · PostgreSQL · Docker
 
+Founder of [ELTE Data Science Club](https://datasciencelte.netlify.app/) — 100+ members
 
-## Focus Areas
-
-- **LLM-Based Systems & Agents** – Intelligent workflows and evaluation frameworks
-- **Retrieval-Augmented Generation (RAG)** – Scalable information retrieval systems
-- **Production ML Engineering** – End-to-end pipelines and deployment
-- **Software Development** – Building robust, scalable applications
-- **Responsible AI** – Bias detection and evaluation methodologies
-
-
-## Interests
-
-Data Science • Machine Learning • NLP • Agentic AI • AI Safety • Software Engineering
-
-
-## Let's Collaborate
-
-Open to projects in **data science, ML research, and production AI systems**.
-
-**📧** [haseeb.javed715@gmail.com](mailto:haseeb.javed715@gmail.com)  
-**💼** [linkedin.com/in/haseebraza715](https://www.linkedin.com/in/haseeb-raza-00a845231)  
-**🐙** [github.com/haseebraza715](https://github.com/haseebraza715)
-
-**Building AI that matters.**
+haseeb.javed715@gmail.com · [linkedin.com/in/haseebraza715](https://linkedin.com/in/haseebraza715)
