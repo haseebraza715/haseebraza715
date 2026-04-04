@@ -19,7 +19,6 @@
 | [**agent-autopsy**](https://github.com/haseebraza715/agent-autopsy) | Detects failure loops and root causes in LLM agent traces |
 | [**multi-agent-reflection-engine**](https://github.com/haseebraza715/forkpoint) | 5-agent reflection system with eval pipeline and audit snapshots |
 | [**bias-detector**](https://github.com/haseebraza715/bias-detector) | Statistical + LLM-based dataset bias auditing framework |
-
 ---
 
 Founder · [ELTE Data Science Club](https://datasciencelte.netlify.app/) · 100+ members &nbsp;·&nbsp; *Research without deployment is theory. Deployment without evaluation is guesswork.*
