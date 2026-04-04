@@ -17,10 +17,14 @@ CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engine
 
 ### Research
 
-| Project | What it does |
-|---|---|
-| [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP |
-| [**llm-bias-evaluation**](https://github.com/haseebraza715/research-project-bias-llms) | Persona-based attitudinal framing bias evaluation across LLMs — 15,552 personas |
+*Active work — papers in preparation*
+
+| Project | What it does | Status |
+|---|---|---|
+| [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with stateful memory and hallucination mitigation — BSc thesis | `writing up` |
+| [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP | `paper in prep` |
+| [**llm-bias-evaluation**](https://github.com/haseebraza715/research-project-bias-llms) | Persona-based attitudinal framing bias evaluation across LLMs — 15,552 personas | `paper in prep` |
+| [**failure-aware-ocr-rag**](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline with graceful extraction failure handling for document QA | `active` |
 
 ---
 
@@ -28,11 +32,11 @@ CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engine
 
 | Project | What it does |
 |---|---|
-| [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with hallucination mitigation — BSc thesis |
 | [**agent-autopsy**](https://github.com/haseebraza715/agent-autopsy) | Detects failure loops and root causes in LLM agent traces |
 | [**multi-agent-reflection-engine**](https://github.com/haseebraza715/forkpoint) | 5-agent reflection system with eval pipeline and audit snapshots |
-| [**failure-aware-ocr-rag**](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline that handles extraction failures gracefully |
 | [**bias-detector**](https://github.com/haseebraza715/bias-detector) | Statistical + LLM-based dataset bias auditing framework |
+
+*More in progress — new ideas shipping soon*
 
 ---
 
@@ -46,4 +50,4 @@ Founder of [**ELTE Data Science Club**](https://datasciencelte.netlify.app/) —
 
 ---
 
-*Research without deployment is theory. Deployment without evaluation is guesswork.*
+*Research without deployment is theory. Deployment without evaluation is guesswork.* 
