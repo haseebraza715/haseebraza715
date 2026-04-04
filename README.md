@@ -11,7 +11,7 @@
 | [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with stateful memory and hallucination mitigation — BSc thesis @ ELTE | `writing up` |
 | [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP | `paper in prep` |
 | [**llm-bias-evaluation**](https://github.com/haseebraza715/research-project-bias-llms) | Persona-based bias evaluation across LLMs — 15,552 personas @ ELTE RC2S2 | `paper in prep` |
-| [**failure-aware-ocr-rag**](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline with graceful extraction failure handling @ ETH | `active` |
+| [**failure-aware-ocr-rag**](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline with graceful extraction failure handling @ ELTE | `active` |
 
 **Projects** &nbsp;·&nbsp; *more shipping soon*
 
