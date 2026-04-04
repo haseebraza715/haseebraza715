@@ -4,14 +4,9 @@ CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engine
 
 > Building agents. Then figuring out where they break.
 
----
-
-### Currently
-
-- Automating scientific peer review with LLM agents @ ETH Agentic Systems Lab
-- Shipping multilingual LLM pipelines for enterprise workflows @ Infineon
-- Researching LLM bias across 15,552 personas @ ELTE RC2S2
-- Building EngageMind — RAG system with stateful memory *(BSc thesis)*
+[![Gmail](https://img.shields.io/badge/Gmail-haseeb.javed715-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseeb.javed715@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-haseebraza715-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseebraza715)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haseebraza.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://haseebraza.netlify.app)
 
 ---
 
@@ -21,10 +16,10 @@ CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engine
 
 | Project | What it does | Status |
 |---|---|---|
-| [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with stateful memory and hallucination mitigation — BSc thesis | `writing up` |
-| [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP | `paper in prep` |
-| [**llm-bias-evaluation**](https://github.com/haseebraza715/research-project-bias-llms) | Persona-based attitudinal framing bias evaluation across LLMs — 15,552 personas | `paper in prep` |
-| [**failure-aware-ocr-rag**](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline with graceful extraction failure handling for document QA | `active` |
+| [**EngageMind**](https://github.com/haseebraza715/EngageMind) | RAG system with stateful memory and hallucination mitigation — BSc thesis @ ELTE | `writing up` |
+| [**acom-embedding-grid**](https://github.com/haseebraza715/research-doc-gridmap) | Discrete semantic grid mapping of document embeddings — benchmarked against PCA, t-SNE, UMAP @ ELTE AI Dept | `paper in prep` |
+| [**llm-bias-evaluation**](https://github.com/haseebraza715/research-project-bias-llms) | Persona-based attitudinal framing bias evaluation across LLMs — 15,552 personas @ ELTE RC2S2 | `paper in prep` |
+| [**failure-aware-ocr-rag**](https://github.com/haseebraza715/failure-aware-ocr-rag) | OCR + RAG pipeline with graceful extraction failure handling for document QA @ ETH | `active` |
 
 ---
 
@@ -42,11 +37,9 @@ CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engine
 
 ### Community
 
+[![DSC](https://img.shields.io/badge/ELTE_Data_Science_Club-100+_members-FF6F00?style=flat-square&logo=googlescholar&logoColor=white)](https://datasciencelte.netlify.app)
+
 Founder of [**ELTE Data Science Club**](https://datasciencelte.netlify.app/) — 100+ members
-
----
-
-[haseeb.javed715@gmail.com](mailto:haseeb.javed715@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/haseebraza715](https://linkedin.com/in/haseebraza715)
 
 ---
 
