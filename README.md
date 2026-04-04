@@ -1,12 +1,4 @@
-# Haseeb Raza
-
-CS @ ELTE Budapest &nbsp;·&nbsp; Research @ ETH Zurich &nbsp;·&nbsp; AI Engineer @ Infineon
-
 > Building agents. Then figuring out where they break.
-
-[![Gmail](https://img.shields.io/badge/Gmail-haseeb.javed715-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseeb.javed715@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-haseebraza715-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseebraza715)
-[![Portfolio](https://img.shields.io/badge/Portfolio-haseebraza.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://haseebraza.netlify.app)
 
 ---
 
