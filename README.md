@@ -17,9 +17,11 @@
 
 | Project | What it does |
 |---|---|
+| [**AuditLens**](https://github.com/haseebraza715/AuditLens) | Bias auditing framework that detects fairness issues in ML datasets with statistical rigor and LLM-powered, task-aware recommendations |
 | [**agent-autopsy**](https://github.com/haseebraza715/agent-autopsy) | Detects failure loops and root causes in LLM agent traces |
 | [**multi-agent-reflection-engine**](https://github.com/haseebraza715/forkpoint) | 5-agent reflection system with eval pipeline and audit snapshots |
 | [**obsidian-ai-agent**](https://github.com/haseebraza715/AgentVault) | AI agent for Obsidian that reasons over personal notes with grounded, context-aware responses |
+
 
 ---
 
