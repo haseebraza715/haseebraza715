@@ -1,4 +1,4 @@
-> Building agents. Then figuring out where they break.
+> Building agents. Then playing with them until they are good enough :) 
 
 [![Gmail](https://img.shields.io/badge/Gmail-haseeb.javed715-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseeb.javed715@gmail.com)
 
